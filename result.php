@@ -130,9 +130,6 @@
     </div>
     <!-- END wrapper -->
 
-    <!-- Right bar overlay-->
-    <div class="rightbar-overlay"></div>
-
     <!-- Vendor js -->
     <script src="assets/js/vendor.min.js"></script>
 
@@ -143,7 +140,5 @@
     <!-- Init js-->
     <script src="assets/js/pages/form-advanced.init.js"></script>
 
-    <!-- App js -->
-    <script src="assets/js/app.min.js"></script>
   </body>
 </html>
