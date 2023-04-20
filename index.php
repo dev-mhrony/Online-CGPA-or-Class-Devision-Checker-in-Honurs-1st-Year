@@ -104,6 +104,7 @@
                                   <option value="2.50">C+</option>
                                   <option value="2.25">C</option>
                                   <option value="2.00">D</option>
+                                  <option value="0.00">F</option>
                                 </select>
                               </div>
                             </div>
@@ -133,6 +134,7 @@
                                   <option value="2.50">C+</option>
                                   <option value="2.25">C</option>
                                   <option value="2.00">D</option>
+                                  <option value="0.00">F</option>
                                 </select>
                               </div>
                             </div>
@@ -162,6 +164,7 @@
                                   <option value="2.50">C+</option>
                                   <option value="2.25">C</option>
                                   <option value="2.00">D</option>
+                                  <option value="0.00">F</option>
                                 </select>
                               </div>
                             </div>
@@ -192,6 +195,7 @@
                                   <option value="2.50">C+</option>
                                   <option value="2.25">C</option>
                                   <option value="2.00">D</option>
+                                  <option value="0.00">F</option>
                                 </select>
                               </div>
                             </div>
@@ -221,6 +225,7 @@
                                   <option value="2.50">C+</option>
                                   <option value="2.25">C</option>
                                   <option value="2.00">D</option>
+                                  <option value="0.00">F</option>
                                 </select>
                               </div>
                             </div>
@@ -250,6 +255,7 @@
                                   <option value="2.50">C+</option>
                                   <option value="2.25">C</option>
                                   <option value="2.00">D</option>
+                                  <option value="0.00">F</option>
                                 </select>
                               </div>
                             </div>
