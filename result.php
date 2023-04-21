@@ -1,3 +1,11 @@
+<!-- /*!
+* Author Name: MH RONY.
+* GigHub Link: https://github.com/dev-mhrony
+* Facebook Link:https://www.facebook.com/dev.mhrony
+* Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+* Visit My Website : developerrony.com
+*/ -->
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -65,7 +73,7 @@
               onmouseover="this.stop();"
               onmouseout="this.start();"
             >
-              নোটিসঃ এখানে আপনি আপনার সাবজেক্ট আকারে তার লেটার গ্রেড সিলেক্ট করুন এবং সেই সাবজেক্ট এর ক্রেডিট সিলেক্ট করুন । 
+              Notes: The sole owner of this code is "Code Camp BD". It is provided free for students only for practice. Driving it in one's own name or selling it for one's own benefit is a punishable offence. Don't forget to subscribe our channel to get updates of all our new videos.
             </marquee>
 
             <?php 
@@ -78,7 +86,14 @@
                 $n_result = $new_result;
 
             ?>
-
+<!-- /*!
+* Author Name: MH RONY.
+* GigHub Link: https://github.com/dev-mhrony
+* Facebook Link:https://www.facebook.com/dev.mhrony
+* Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+* Visit My Website : developerrony.com
+*/ -->
             <H1 style="text-align: center; ;margin-top: 100px;">Congratulation Yoour CGPA Result is<samp style="color:red"> <?php echo  $new_result ?></samp> Out Of 4.00</H1>
             <H1 style="text-align: center; ;margin-top: 100px;">Your Class / Devesion = <?php  if($n_result>= 4.00){
                   echo "1st Class / Devision";
@@ -123,7 +138,14 @@
         </footer>
         <!-- end Footer -->
       </div>
-
+<!-- /*!
+* Author Name: MH RONY.
+* GigHub Link: https://github.com/dev-mhrony
+* Facebook Link:https://www.facebook.com/dev.mhrony
+* Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+* Visit My Website : developerrony.com
+*/ -->
       <!-- ============================================================== -->
       <!-- End Page content -->
       <!-- ============================================================== -->
@@ -139,6 +161,13 @@
 
     <!-- Init js-->
     <script src="assets/js/pages/form-advanced.init.js"></script>
-
+<!-- /*!
+* Author Name: MH RONY.
+* GigHub Link: https://github.com/dev-mhrony
+* Facebook Link:https://www.facebook.com/dev.mhrony
+* Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+* Visit My Website : developerrony.com
+*/ -->
   </body>
 </html>

@@ -1,3 +1,11 @@
+<!-- /*!
+* Author Name: MH RONY.
+* GigHub Link: https://github.com/dev-mhrony
+* Facebook Link:https://www.facebook.com/dev.mhrony
+* Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+* Visit My Website : developerrony.com
+*/ -->
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -30,7 +38,14 @@
     />
     <link href="assets/css/app.min.css" rel="stylesheet" type="text/css" />
   </head>
-
+<!-- /*!
+* Author Name: MH RONY.
+* GigHub Link: https://github.com/dev-mhrony
+* Facebook Link:https://www.facebook.com/dev.mhrony
+* Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+* Visit My Website : developerrony.com
+*/ -->
   <body>
     <!-- Begin page -->
     <div id="wrapper">
@@ -65,7 +80,7 @@
               onmouseover="this.stop();"
               onmouseout="this.start();"
             >
-              নোটিসঃ এখানে আপনি আপনার সাবজেক্ট আকারে তার লেটার গ্রেড সিলেক্ট করুন এবং সেই সাবজেক্ট এর ক্রেডিট সিলেক্ট করুন । 
+             Notes: The sole owner of this code is "Code Camp BD". It is provided free for students only for practice. Driving it in one's own name or selling it for one's own benefit is a punishable offence. Don't forget to subscribe our channel to get updates of all our new videos.
               
             </marquee>
 
@@ -76,7 +91,14 @@
                     <h5 class="sub-header">
                       Student Information
                     </h5>
-
+<!-- /*!
+* Author Name: MH RONY.
+* GigHub Link: https://github.com/dev-mhrony
+* Facebook Link:https://www.facebook.com/dev.mhrony
+* Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+* Visit My Website : developerrony.com
+*/ -->
                     <form class="form-horizontal" action="config.php" method="POST">
                       <div class="row">
                         <div class="col">
@@ -109,7 +131,14 @@
                               </div>
                             </div>
                           </div>
-
+<!-- /*!
+* Author Name: MH RONY.
+* GigHub Link: https://github.com/dev-mhrony
+* Facebook Link:https://www.facebook.com/dev.mhrony
+* Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+* Visit My Website : developerrony.com
+*/ -->
                           <!-- Scend Subject -->
                           <div class="form-group row">
                             <label class="col-lg-3 col-form-label" for="scend_sub"
@@ -139,7 +168,14 @@
                               </div>
                             </div>
                           </div>
-
+<!-- /*!
+* Author Name: MH RONY.
+* GigHub Link: https://github.com/dev-mhrony
+* Facebook Link:https://www.facebook.com/dev.mhrony
+* Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+* Visit My Website : developerrony.com
+*/ -->
                           <!-- Therd Subject  -->
                           <div class="form-group row">
                             <label class="col-lg-3 col-form-label" for="threed_sub"
@@ -169,7 +205,14 @@
                               </div>
                             </div>
                           </div>
-
+<!-- /*!
+* Author Name: MH RONY.
+* GigHub Link: https://github.com/dev-mhrony
+* Facebook Link:https://www.facebook.com/dev.mhrony
+* Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+* Visit My Website : developerrony.com
+*/ -->
                           <!-- Fourth Subject  -->
                           <div class="form-group row">
                             <label class="col-lg-3 col-form-label" for="four_sub"
@@ -200,7 +243,14 @@
                               </div>
                             </div>
                           </div>
-
+<!-- /*!
+* Author Name: MH RONY.
+* GigHub Link: https://github.com/dev-mhrony
+* Facebook Link:https://www.facebook.com/dev.mhrony
+* Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+* Visit My Website : developerrony.com
+*/ -->
                           <!-- Five Subject  -->
                           <div class="form-group row">
                             <label class="col-lg-3 col-form-label" for="five_sub"
@@ -230,7 +280,14 @@
                               </div>
                             </div>
                           </div>
-
+<!-- /*!
+* Author Name: MH RONY.
+* GigHub Link: https://github.com/dev-mhrony
+* Facebook Link:https://www.facebook.com/dev.mhrony
+* Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+* Visit My Website : developerrony.com
+*/ -->
                            <!-- Six Subject  -->
                           <div class="form-group row">
                             <label class="col-lg-3 col-form-label" for="six_sub"
@@ -263,7 +320,14 @@
 
 
                         </div>
-
+<!-- /*!
+* Author Name: MH RONY.
+* GigHub Link: https://github.com/dev-mhrony
+* Facebook Link:https://www.facebook.com/dev.mhrony
+* Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+* Visit My Website : developerrony.com
+*/ -->
                         <div class="col">
                            <!-- 1st Subject  -->
                           <div class="form-group row">
@@ -289,7 +353,15 @@
                               </div>
                             </div>
                           </div>
-                           <!-- Seven Subject  -->
+                           <!-- /*!
+* Author Name: MH RONY.
+* GigHub Link: https://github.com/dev-mhrony
+* Facebook Link:https://www.facebook.com/dev.mhrony
+* Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+* Visit My Website : developerrony.com
+*/ -->
+<!-- Seven Subject  -->
                           <div class="form-group row">
                             <label class="col-lg-3 col-form-label" for="scend_cradit"
                               >Scend Cradit <code>*</code></label
@@ -313,7 +385,14 @@
                               </div>
                             </div>
                           </div>
-
+<!-- /*!
+* Author Name: MH RONY.
+* GigHub Link: https://github.com/dev-mhrony
+* Facebook Link:https://www.facebook.com/dev.mhrony
+* Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+* Visit My Website : developerrony.com
+*/ -->
                           <!-- Seven Subject  -->
                           <div class="form-group row">
                             <label class="col-lg-3 col-form-label" for="Three_cradit"
@@ -339,7 +418,14 @@
                               </div>
                             </div>
                           </div>
-
+<!-- /*!
+* Author Name: MH RONY.
+* GigHub Link: https://github.com/dev-mhrony
+* Facebook Link:https://www.facebook.com/dev.mhrony
+* Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+* Visit My Website : developerrony.com
+*/ -->
                           <!-- Seven Subject  -->
                           <div class="form-group row">
                             <label class="col-lg-3 col-form-label" for="Four_cradit"
@@ -365,7 +451,14 @@
                             </div>
                           </div>
 
-
+<!-- /*!
+* Author Name: MH RONY.
+* GigHub Link: https://github.com/dev-mhrony
+* Facebook Link:https://www.facebook.com/dev.mhrony
+* Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+* Visit My Website : developerrony.com
+*/ -->
                           <!-- 5th Subject  -->
                           <div class="form-group row">
                             <label class="col-lg-3 col-form-label" for="Five_cradit"
@@ -390,7 +483,14 @@
                               </div>
                             </div>
                           </div>
-
+<!-- /*!
+* Author Name: MH RONY.
+* GigHub Link: https://github.com/dev-mhrony
+* Facebook Link:https://www.facebook.com/dev.mhrony
+* Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+* Visit My Website : developerrony.com
+*/ -->
                           <!-- Seven Subject  -->
                           <div class="form-group row">
                             <label class="col-lg-3 col-form-label" for="six_cratit"
@@ -418,7 +518,14 @@
                 
                         </div>
                       </div>
-                      
+                      <!-- /*!
+* Author Name: MH RONY.
+* GigHub Link: https://github.com/dev-mhrony
+* Facebook Link:https://www.facebook.com/dev.mhrony
+* Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+* Visit My Website : developerrony.com
+*/ -->
 
                       <div
                         class="apply_btn"
@@ -440,7 +547,14 @@
                   </div>
                   <!-- end card-body -->
                 </div>
-
+<!-- /*!
+* Author Name: MH RONY.
+* GigHub Link: https://github.com/dev-mhrony
+* Facebook Link:https://www.facebook.com/dev.mhrony
+* Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+* Visit My Website : developerrony.com
+*/ -->
                 <!-- end card-->
               </div>
               <!-- end col -->
@@ -465,7 +579,14 @@
         </footer>
         <!-- end Footer -->
       </div>
-
+<!-- /*!
+* Author Name: MH RONY.
+* GigHub Link: https://github.com/dev-mhrony
+* Facebook Link:https://www.facebook.com/dev.mhrony
+* Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+* Visit My Website : developerrony.com
+*/ -->
       <!-- ============================================================== -->
       <!-- End Page content -->
       <!-- ============================================================== -->
@@ -479,7 +600,14 @@
     <!-- Plugins Js -->
     <script src="assets/libs/select2/select2.min.js"></script>
 
-
+<!-- /*!
+* Author Name: MH RONY.
+* GigHub Link: https://github.com/dev-mhrony
+* Facebook Link:https://www.facebook.com/dev.mhrony
+* Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+* Visit My Website : developerrony.com
+*/ -->
     <!-- Init js-->
     <script src="assets/js/pages/form-advanced.init.js"></script>
 
