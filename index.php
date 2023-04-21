@@ -289,7 +289,6 @@
                               </div>
                             </div>
                           </div>
-
                            <!-- Seven Subject  -->
                           <div class="form-group row">
                             <label class="col-lg-3 col-form-label" for="scend_cradit"
@@ -304,7 +303,6 @@
                                   data-placeholder="Select Your 2nd Cradit"
                                    name="scend_cradit" required
                                 >
-                                  <option value=""></option>
                                   <option value=""></option>
                                   <option value="5">5</option>
                                   <option value="4">4</option>
